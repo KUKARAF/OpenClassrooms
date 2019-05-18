@@ -1,0 +1,133 @@
+
+
+
+.navbar-inverse .navbar-brand .site-title a {
+    color: #bbb;
+}
+
+#menu-item{color:#fff}
+
+#main-nav{background-color:black;}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    color: #a37b1f;
+}
+
+
+
+.navbar-inverse .navbar-brand .site-title-tagline-wrapper .site-title > a:hover, .navbar-inverse .navbar-brand .site-title-tagline-wrapper .site-title > a:focus {
+    color: #a37b1f;
+}
+
+.navbar-inverse .navbar-nav ul.sub-menu li:hover > a, .navbar-inverse .navbar-nav ul.sub-menu li.link-focus > a {
+    color: #a37b1f;
+}
+.purchase-now {
+		padding: 10px 0px;
+    background: #a37b1f;
+}
+#testimonials {
+    background: rgb(64, 64, 64,0.8);
+}
+
+.red-btn {
+
+    background: #404040;
+
+}
+
+
+.red-btn:hover {
+
+    background: #a37b1f;
+
+}
+.green-btn {
+
+    color: #fff;
+    background: #404040;
+
+}
+
+.green-btn:hover {
+
+    color: #fff;
+    background: #a37b1f;
+
+}
+
+
+.separator-one {
+    padding: 100px 0 100px 0;
+    background: rgb(64, 64, 64,0.8);
+	
+
+}
+
+.post-img-wrap img {
+    visibility: hidden;
+    height: 0px;
+    display: none;
+}
+
+
+#entry-title{visibility:hidden}
+
+.focus{display:none}
+
+
+.epl-clearfix{
+	clear:unset !important
+}
+
+.epl-property-blog .property-box img {
+    width: 100%;
+}
+
+.epl-property-blog{
+	width: 32%;
+	margin-right:2% !important
+}
+.epl-property-blog:nth-child(3n+3){
+	margin-right:0px !important
+}
+
+.epl-archive-entry-image{
+	width:100%
+}
+
+.epl-property-blog .property-box-left {
+    width: 100%;
+    padding-right: 0px;
+}
+
+.epl-property-blog .property-box-right {
+    width: 100%;
+	text-align:left
+}
+.epl-excerpt-content {
+    display:none !important
+}
+
+.entry-title{
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.epl-search-row{
+	min-width: 30%
+}
+
+
+.epl-archive-utility-wrapper {
+    display: none;
+}
+
+
+.epl-search-form .check-label {
+    font-size: 0.7em;
+    padding-top: 0;
+    transform: translateY(13px);
+}

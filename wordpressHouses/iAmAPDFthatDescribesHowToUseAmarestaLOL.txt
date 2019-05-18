@@ -1,0 +1,15 @@
+How to approve or delete comments: 
+	1.login in amareesta.com/wp-admin
+	2.Under Dashboard scroll down untill you see the Activity section
+
+How to add Properties/Rentals: 
+	1.Under "Meta Slider" >> Add New Slideshow
+	2.Add Slide and upload all the images of one property 
+		optional:rename the slide
+	3.Copy the orange text under "How to Use"
+	4.Click Save 
+	
+	5.Ind the left side bar click Rentals/Properties and then Add New
+	6.Paste the jsut copied tet on top and then add a description and title
+	7.Click Publish
+
